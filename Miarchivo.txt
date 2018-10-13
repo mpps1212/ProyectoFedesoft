@@ -10,4 +10,8 @@ Okis ;)
 
 ddd
 
+<<<<<<< HEAD
 6 )version 6 master
+=======
+6) se crea para la rama front end
+>>>>>>> frontEnd
